@@ -1,7 +1,3 @@
-
-
-<!--
-**anujdhanera-svg/anujdhanera-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 AI & Data Science Engineer 👨‍💻<br>Python | SQL | NumPy | Pandas | Matplotlib | Seaborn | Machine Learning<br>Love building ML models, analyzing data, and solving real-world problems with code 📊🤖
 
@@ -20,4 +16,3 @@ AI & Data Science Engineer 👨‍💻<br>Python | SQL | NumPy | Pandas | Matplo
 [![](https://visitcount.itsvg.in/api?id=anujdhanera-svg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
